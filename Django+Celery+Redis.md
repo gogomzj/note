@@ -1,7 +1,5 @@
 # Celery+Redis
 
-小编：李志勇 www.embsky.com
-
 
 
 ## 基本概念 
